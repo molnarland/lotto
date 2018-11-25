@@ -1,0 +1,36 @@
+{
+  "name": "lotto-frontend",
+  "version": "0.0.1",
+  "description": "",
+  "main": "dist/index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/molnarland/lotto.git"
+  },
+  "author": "molnarland <rrmolnar@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/molnarland/lotto/issues"
+  },
+  "homepage": "https://github.com/molnarland/lotto#readme",
+  "devDependencies": {
+    "@types/react": "^16.7.7",
+    "@types/react-dom": "^16.0.10",
+    "awesome-typescript-loader": "^5.2.1",
+    "gulp": "^3.9.1",
+    "gulp-autoprefixer": "^6.0.0",
+    "gulp-pug2": "0.0.2",
+    "gulp-run-command": "0.0.9",
+    "gulp-sass": "^4.0.2",
+    "gulp-typescript": "^5.0.0-alpha.3",
+    "node-sass": "^4.10.0",
+    "react": "^16.6.3",
+    "react-dom": "^16.6.3",
+    "source-map-loader": "^0.2.4",
+    "typescript": "^3.1.6"
+  },
+  "browserslist": "> 0.05%, not dead"
+}
